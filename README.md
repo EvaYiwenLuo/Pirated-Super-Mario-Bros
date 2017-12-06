@@ -4,7 +4,9 @@
 
 
 ● Controls
+
 · Arrow keys for direction Left and Right.
+
 · Space for Jump.
 
 ● DISCLAIMER:
