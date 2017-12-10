@@ -1,17 +1,15 @@
 # Super-Mario-Bros-Homage
 
-▪ Super-Mario-Bros-Homage
-
-· An attempt to recreate the first three levels of early version Super Mario Bros using Java SE.
+· This is an attempt to recreate the first three levels of early version Super Mario Bros using Java SE.
 
 
-▪ Controls:
+**▪ Controls: **
 
 · Arrow keys for direction Left ← and Right →.
 
 · Space for Jump.
 
-▪ DISCLAIMER:
+**▪ Disclaimer: **
 
 · This project is intended for non-commercial practice purposes.
 
