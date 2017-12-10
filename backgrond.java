@@ -1,3 +1,5 @@
+// The file name "backgrond" means "background of the game".
+
 package maria;
 
 import java.awt.Graphics;
